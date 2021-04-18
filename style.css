@@ -1,0 +1,19 @@
+.grid {
+    box-shadow: 5px 5px 10px grey;
+    display: flex;
+    flex-wrap: wrap;
+    height: 300px;
+    width: 400px;
+    margin: 0 auto;
+    margin-bottom: 5rem;
+}
+
+h3 {
+    text-align: center;
+    font-size: 1.6rem;
+}
+
+#result {
+    color: blue
+}
+
